@@ -126,6 +126,6 @@ int main()
 
     cout << "\nWords not found in the dictionary:\n";
     checkSpelling(inputFileName, dictionaryWords);
-
+	cout << "hello world" << endl;
     return 0;
 }
