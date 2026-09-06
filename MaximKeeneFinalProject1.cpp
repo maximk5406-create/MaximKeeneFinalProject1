@@ -85,7 +85,7 @@ void checkSpelling(const string& inputFileName,
 
     if (!inputFile)
     {
-        cerr << "Error: Could not open input file: "
+        cerr << "Error: Could not open input file: Because you are an idiot"
             << inputFileName << endl;
         return;
     }
