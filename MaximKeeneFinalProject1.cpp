@@ -108,7 +108,7 @@ void checkSpelling(const string& inputFileName,
 // Author: [Team Member Name]
 int main()
 {
-    const string dictionaryFileName = "/usr/share/dict/words";
+    const string dictionaryFileName = "words.txt";
     string inputFileName;
 
     cout << "Enter the name of the file to check: ";
